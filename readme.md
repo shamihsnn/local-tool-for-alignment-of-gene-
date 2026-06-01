@@ -1,8 +1,7 @@
 # Local Sequence Alignment Tool
 
 A web-based implementation of the **Smith-Waterman algorithm** for local sequence alignment. Built for researchers, students, and bioinformatics professionals who need fast, browser-based pairwise alignment without dependencies.
-
-**Live Demo → [Try the Tool](#)** | **Portfolio → [portfolio-usama-sage.vercel.app](https://portfolio-usama-sage.vercel.app/)**
+ | **Portfolio → [portfolio-usama-sage.vercel.app](https://portfolio-usama-sage.vercel.app/)**
 
 ---
 
